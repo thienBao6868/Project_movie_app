@@ -1,0 +1,40 @@
+.logo_Netflix img{
+    height: 50px;
+    width: 90px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.logo_Netflix img:hover{
+    cursor: pointer;
+}
+.WapperLeftNavbar li{
+    list-style: none ;
+}
+.toolbar{
+    display: flex;
+    justify-content:space-between;
+}
+.accout{
+    margin-top: 8px;
+}
+.accout:hover{
+    cursor: pointer;
+}
+.wapper_menu {
+    display: flex;
+    
+}
+.wapper_menu a{
+    text-decoration: none;
+    color: white;
+}
+.wapper_menu a.active {
+    color: red;
+}
+.wapper_menu_mobile a{
+    color: white;
+    text-decoration: none;
+}
+.wapper_menu_mobile a.active{
+    color: red;
+}

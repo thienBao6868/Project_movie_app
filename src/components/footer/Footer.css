@@ -1,0 +1,14 @@
+.footer {
+	padding-top: 1rem;
+}
+
+.socialIcon {
+	color: grey;
+	cursor: pointer;
+	transition: 0.1s;
+	margin-right: 0.3em;
+}
+
+.socialIcon:hover {
+	color: white;
+}
